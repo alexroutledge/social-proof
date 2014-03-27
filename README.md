@@ -15,5 +15,7 @@ This is intended to be used as a third party JS application that a client could 
 Testing:
 
 -To increase the number of concurrent visitors, go to http://dl.dropboxusercontent.com/u/8767938/fresca/html5/real-time/ga.html
+
 -Note, this is just a blank HTML page that runs some JS in the background to increase the visitor count.
+
 -To view the demo page, go to http://dl.dropboxusercontent.com/u/8767938/fresca/html5/real-time/demo.html
